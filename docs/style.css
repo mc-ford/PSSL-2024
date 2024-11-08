@@ -5,6 +5,8 @@ body {
     padding: 0;
     line-height: 1.6;
     background-color: #f4f4f4;
+    max-width: 960px;
+    margin:0 auto;
 }
 
 .home-header {
@@ -63,15 +65,11 @@ body {
     color: #fff;
     padding: 10px;
     position: fixed;
-    width: 100%;
-    top: 0;
-    left: 0;
+    width: 940px;
     z-index: 1000;
     display: flex;
-    justify-content: space-between;
-    align-items: left;
+    align-items: center;
     transition: background-color 0.3s ease; /* Smooth transition for background color */
-
 }
 
 .menu-icon {
