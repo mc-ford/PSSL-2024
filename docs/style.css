@@ -17,6 +17,7 @@ body {
     color: #fff;
     padding: 40px 0; /* Increase padding to make the banner more prominent */
     text-align: center;
+    text-shadow: 1px 1px 4px black;
 }
 
 .program-header {
@@ -27,6 +28,7 @@ body {
     color: #fff;
     padding: 40px 0; /* Increase padding to make the banner more prominent */
     text-align: center;
+    text-shadow: 1px 1px 4px black;
 }
 
 .participants-header {
@@ -37,6 +39,7 @@ body {
     color: #fff;
     padding: 40px 0; /* Increase padding to make the banner more prominent */
     text-align: center;
+    text-shadow: 1px 1px 4px black;
 }
 
 .practical-header {
@@ -47,6 +50,7 @@ body {
     color: #fff;
     padding: 40px 0; /* Increase padding to make the banner more prominent */
     text-align: center;
+    text-shadow: 1px 1px 4px black;
 }
 
 .header-credit {
@@ -70,6 +74,7 @@ body {
     display: flex;
     align-items: center;
     transition: background-color 0.3s ease; /* Smooth transition for background color */
+    text-shadow: 1px 1px 4px black;
 }
 
 .menu-icon {
